@@ -1,16 +1,18 @@
-## Hi there 👋
+```zsh
+> neofetch
+```
 
-<!--
-**not-dromo/not-dromo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="left" src="null" alt="BlackHole ASCII made by Dromo" width="320" /> 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```csharp
+not-dromo@github
+---------------------------------------------------------
+User:                     Lucca Carone Marinho de Azevedo
+Uptime:                         21 years 4 months 10 days 
+Location:                          Rio de Janeiro, Brasil
+Languages:                      C, C++, Python, HTML, CSS
+Learning:                                        Assembly
+Hobbies:                            Chess, Cubing, Gaming
+Commits:                                                -
+Stars:                                                  -
+```
