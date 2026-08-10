@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="985px" height="530px" font-size="16px">
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="985px" height="335px" font-size="16px">
 <style>
 @font-face {
 src: local('Consolas'), local('Consolas Bold');
@@ -15,36 +15,37 @@ size-adjust: 109%;
 .cc {fill: #616e7f;}
 text, tspan {white-space: pre;}
 </style>
-<rect width="985px" height="530px" fill="#161b22" rx="15"/>
+<rect width="985px" height="335px" fill="#161b22" rx="15"/>
 <text x="15" y="30" fill="#c9d1d9" class="ascii">
 <tspan x="15" y="30">not-dromo@github</tspan>
-<tspan x="15" y="50">--------            ,--------------------------------------------------------------------------------</tspan>
+<tspan x="15" y="50">--------            ,-------------------------------------------------------------------------------</tspan>
 <tspan x="15" y="70">                 ,-'                      _.-/</tspan>
 <tspan x="15" y="90">              ,-' _.oooo;:,..         .:uo;'´ </tspan>
 <tspan x="15" y="110">            .' .od88UU[[[[UUbo-,,.,.;d8b;-    </tspan>
 <tspan x="15" y="130">           / .od888;;:^^:;;U888bo;d8b;-       </tspan>
 <tspan x="15" y="150">          ' .d88:-'        '::\U88b-          </tspan>
 <tspan x="15" y="170">           .d88:-'        .,od^^^'´           </tspan>
-<tspan x="15" y="190">          .dN88:'     .,oº'´  ,oo.L           </tspan>
-<tspan x="15" y="210">          :8888:- .,oº'´     .;?][ i          </tspan>
-<tspan x="15" y="230">        .:;d88bnooº´        .;[]?´ n          </tspan>
-<tspan x="15" y="250">       .;d88bo'´ ,.       ,;]?][´   k         </tspan>
-<tspan x="15" y="270">     .:d8b;:-´   ??[]?\[?[][??]'      e       </tspan>
-<tspan x="15" y="290">  .:;d88-^         `d[??]boº'´          d i n:</tspan>
+<tspan x="15" y="190">          .dN88:'     .,oº'´  ,oo.            </tspan>
+<tspan x="15" y="210">          :8888:- .,oº'´     .;?][            </tspan>
+<tspan x="15" y="230">        .:;d88bnooº´        .;[]?´            </tspan>
+<tspan x="15" y="250">       .;d88bo'´ ,.       ,;]?][´             </tspan>
+<tspan x="15" y="270">     .:d8b;:-´   ??[]?\[?[][??]'              </tspan>
+<tspan x="15" y="290">  .:;d88-^         `d[??]boº'´                </tspan>
 <tspan x="15" y="310">--^^^                                         </tspan>
 </text>
-<text x="480" y="30" fill="#c9d1d9">
-<tspan x="480" y="70" class="cc"> </tspan><tspan class="key">User:</tspan><tspan class="cc"> ........... </tspan><tspan class="value">Lucca Carone Marinho de Azevedo</tspan>
-<tspan x="480" y="90" class="cc"> </tspan><tspan class="key">Uptime:</tspan><tspan class="cc" id="age_data_dots"> ...................... </tspan><tspan class="value" id="age_data">21 years 4 months 10 days</tspan>
-<tspan x="480" y="110" class="cc"> </tspan><tspan class="key">Location:</tspan><tspan class="cc"> ............................. </tspan><tspan class="value">Rio de Janeiro - Brasil</tspan>
-<tspan x="480" y="130" class="cc"> </tspan><tspan class="key">Languages:</tspan><tspan class="cc"> ...... </tspan><tspan class="value">C, C++, Python, Html, Css</tspan>
-<tspan x="480" y="150" class="cc"> </tspan><tspan class="key">Learning:</tspan><tspan class="cc"> ........................ </tspan><tspan class="value">Assembly</tspan>
-<tspan x="480" y="170" class="cc"> </tspan><tspan class="key">Hobbies:</tspan><tspan class="cc"> ..... </tspan><tspan class="value">Chess, Cubing, Gaming</tspan>
-<tspan x="480" y="190" class="cc"> </tspan><tspan class="key">Commits:</tspan><tspan class="cc"> ..... </tspan><tspan class="value">-</tspan>
-<tspan x="480" y="210" class="cc"> </tspan><tspan class="key">Stars:</tspan><tspan class="cc"> ......... </tspan><tspan class="value">-</tspan>
-<tspan x="480" y="230" class="cc"> </tspan>
-<tspan x="480" y="250">- Contact ------------------------------------------</tspan>
-<tspan x="480" y="270" class="cc"> </tspan><tspan class="key">Gmail:</tspan><tspan class="cc"> .... </tspan><tspan class="value">lucca.caronemarinho@gmail.com</tspan>
-<tspan x="480" y="290" class="cc"> </tspan><tspan class="key">Linkedin:</tspan><tspan class="cc"> ............. </tspan><tspan class="value">Lucca Carone Marinho de Azevedo</tspan>
+<text x="475" y="30" fill="#c9d1d9">
+<tspan x="475" y="70" class="cc"> </tspan><tspan class="key">User:</tspan><tspan class="cc"> ............ </tspan><tspan class="value">Lucca Carone Marinho de Azevedo</tspan>
+<tspan x="475" y="90" class="cc"> </tspan><tspan class="key">Uptime:</tspan><tspan class="cc" id="age_data_dots"> ................ </tspan><tspan class="value" id="age_data">21 years 4 months 10 days</tspan>
+<tspan x="475" y="110" class="cc"> </tspan><tspan class="key">Location:</tspan><tspan class="cc"> ................ </tspan><tspan class="value">Rio de Janeiro - Brasil</tspan>
+<tspan x="475" y="130" class="cc"> </tspan><tspan class="key">Languages:</tspan><tspan class="cc"> ............. </tspan><tspan class="value">C, C++, Python, Html, Css</tspan>
+<tspan x="475" y="150" class="cc"> </tspan><tspan class="key">Learning:</tspan><tspan class="cc"> ............................... </tspan><tspan class="value">Assembly</tspan>
+<tspan x="475" y="170" class="cc"> </tspan><tspan class="key">Hobbies:</tspan><tspan class="cc"> ................... </tspan><tspan class="value">Chess, Cubing, Gaming</tspan>
+<tspan x="15" y="190" class="cc"> </tspan><tspan class="key">                                 L              Commits:</tspan><tspan class="cc"> ....................................... </tspan><tspan class="value">?</tspan>
+<tspan x="15" y="210" class="cc"> </tspan><tspan class="key">                                  i             Stars:</tspan><tspan class="cc"> ......................................... </tspan><tspan class="value">0</tspan>
+<tspan x="15" y="230" class="cc"> </tspan><tspan class="key">                                  n             Stars:</tspan>
+<tspan x="15" y="250">                                    <tspan class="key">k</tspan>           Contact -------------------------------------------</tspan>
+<tspan x="15" y="270" class="cc"> </tspan><tspan class="key">                                     e          Gmail:</tspan><tspan class="cc"> ............. </tspan><tspan class="value">lucca.caronemarinho@gmail.com</tspan>
+<tspan x="15" y="290" class="cc"> </tspan><tspan class="key">                                       d i n:</tspan><tspan class="cc"> . ..  ...  ... </tspan><tspan class="value">L   u  c ca Carone Marinho de Azevedo</tspan>
+<tspan x="15" y="310" class="cc"> </tspan><tspan class="key">                                                Github:</tspan><tspan class="cc"> ................................ </tspan><tspan class="value">not-dromo</tspan>
 </text>
 </svg>
