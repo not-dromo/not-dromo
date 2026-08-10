@@ -1,9 +1,3 @@
-```zsh
-> neofetch
-```
-
-<!--<img align="left" src="./assets/blackhole_ASCII.jpeg" alt="BlackHole ASCII made by Dromo" width="320" /> -->
-
 ```csharp
 not-dromo@github
 -----------------------------------------------------------------------------------------------
@@ -13,11 +7,11 @@ not-dromo@github
               .od888;;:^^:;;U888bo;d8b;-          Languages:          C, C++, Python, Html, Css
              .d88:-'        '::\U88b-             Learning:                            Assembly
             .d88:-'        .,od^^^'´              Hobbies:              Chess Cubing and Gaming
-           .dN88:'     .,oº'´  ,oo.               Commits:                                    -
-           :8888:- .,oº'´     .;?][               Stars:                                      -
-         .:;d88bnooº´        .;[]?´                                                           .
-        .;d88bo'´ ,.       ,;]?][´                                                            .
-      .:d8b;:-´   ??[]?\[?[][??]'                                                             .
-   .:;d88-^         `d[??]boº'´                                                               .
+           .dN88:'     .,oº'´  ,oo.L              Commits:                                    -
+           :8888:- .,oº'´     .;?][ i             Stars:                                      -
+         .:;d88bnooº´        .;[]?´ n                                                         -
+        .;d88bo'´ ,.       ,;]?][´   k            - Contact -----------------------------------
+      .:d8b;:-´   ??[]?\[?[][??]'      e          Gmail:          lucca.caronemarinho@gmail.com
+   .:;d88-^         `d[??]boº'´          di n: L u  c   c    a    C    a rone Marinho de Azevedo                                                  .
  --^^^                                                                                        .
 ```
