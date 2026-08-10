@@ -12,6 +12,6 @@ not-dromo@github
          .:;d88bnooº´        .;[]?´ n                                                         -
         .;d88bo'´ ,.       ,;]?][´   k            - Contact -----------------------------------
       .:d8b;:-´   ??[]?\[?[][??]'      e          Gmail:          lucca.caronemarinho@gmail.com
-   .:;d88-^         `d[??]boº'´          d i n: L u  c  c   a   C   a  r one Marinho de Azevedo                                                  .
+   .:;d88-^         `d[??]boº'´          d i n: L u  c  c   a   C   a  r one Marinho de Azevedo
  --^^^                                                                                        .
 ```
