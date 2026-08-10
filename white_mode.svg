@@ -15,7 +15,7 @@ size-adjust: 109%;
 .cc {fill: #c2cfde;}
 text, tspan {white-space: pre;}
 </style>
-<rect width="985px" height="335px" fill="#161b22" rx="15"/>
+<rect width="985px" height="335px" fill="#f6f8fa" rx="15"/>
 <text x="15" y="30" fill="#c9d1d9" class="ascii">
 <tspan x="15" y="30">not-dromo@github</tspan>
 <tspan x="15" y="50">--------            ,-------------------------------------------------------------------------------</tspan>
@@ -33,7 +33,7 @@ text, tspan {white-space: pre;}
 <tspan x="15" y="290">  .:;d88-^         `d[??]boº'´                </tspan>
 <tspan x="15" y="310">--^^^                                         </tspan>
 </text>
-<text x="475" y="30" fill="#c9d1d9">
+<text x="475" y="30" fill="#24292f">
 <tspan x="475" y="70" class="cc"> </tspan><tspan class="key">User:</tspan><tspan class="cc"> ............ </tspan><tspan class="value">Lucca Carone Marinho de Azevedo</tspan>
 <tspan x="475" y="90" class="cc"> </tspan><tspan class="key">Uptime:</tspan><tspan class="cc" id="age_data_dots"> ................ </tspan><tspan class="value" id="age_data">21 years 4 months 10 days</tspan>
 <tspan x="475" y="110" class="cc"> </tspan><tspan class="key">Location:</tspan><tspan class="cc"> ................ </tspan><tspan class="value">Rio de Janeiro - Brasil</tspan>
